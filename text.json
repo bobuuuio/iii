@@ -3,6 +3,48 @@
     {
       "confTeams" : [
         {
+          "abbreviation" : "BZST",
+          "prestige" : "82",
+          "hexColor" : "#6699CC",
+          "rival" : "BGT",
+          "headCoach" : {
+            "contractLength" : "6",
+            "startYear" : "2021",
+            "age" : "41",
+            "ratOff" : "91",
+            "cumulativePrestige" : "-4",
+            "ratDef" : "89",
+            "homeState" : "Missouri",
+            "ratPot" : "95",
+            "ratTalent" : "95",
+            "baselinePrestige" : "79",
+            "name" : "Michael Corban",
+            "contractYear" : "3"
+          },
+          "name" : "Brazil State",
+          "state" : "Georgia"
+        },
+          "abbreviation" : "BZT",
+          "prestige" : "82",
+          "hexColor" : "#6699CC",
+          "rival" : "BZST",
+          "headCoach" : {
+            "contractLength" : "6",
+            "startYear" : "2021",
+            "age" : "41",
+            "ratOff" : "91",
+            "cumulativePrestige" : "-4",
+            "ratDef" : "89",
+            "homeState" : "Missouri",
+            "ratPot" : "95",
+            "ratTalent" : "95",
+            "baselinePrestige" : "79",
+            "name" : "Michael Corban",
+            "contractYear" : "3"
+          },
+          "name" : "Brazil Tech",
+          "state" : "Georgia"
+        },
           "abbreviation" : "BZU",
           "prestige" : "82",
           "hexColor" : "#6699CC",
