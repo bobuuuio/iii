@@ -1,0 +1,474 @@
+{
+  "version": 37,
+  "startingSeason": 2000,
+  "players": [
+    {
+      "firstName": "John",
+      "lastName": "Jackson",
+      "tid": -2,
+      "ratings": [
+        {
+          "hgt": 100,
+          "stre": 100,
+          "spd": 100,
+          "jmp": 100,
+          "endu": 100,
+          "ins": 100,
+          "dnk": 100,
+          "ft": 100,
+          "fg": 100,
+          "tp": 100,
+          "oiq": 100,
+          "diq": 100,
+          "drb": 100,
+          "pss": 100,
+          "reb": 100
+        }
+      ],
+      "born": {"year": 1980},
+      "draft": {"year": 2000}
+    },
+    {
+      "firstName": "Barton",
+      "lastName": "Sanderson",
+      "tid": -2,
+      "ratings": [
+        {
+          "hgt": 100,
+          "stre": 100,
+          "spd": 100,
+          "jmp": 100,
+          "endu": 100,
+          "ins": 100,
+          "dnk": 100,
+          "ft": 100,
+          "fg": 100,
+          "tp": 100,
+          "oiq": 100,
+          "diq": 100,
+          "drb": 100,
+          "pss": 100,
+          "reb": 100
+        }
+      ],
+      "born": {"year": 1980},
+      "draft": {"year": 2000}
+    },
+    {
+      "firstName": "Eric",
+      "lastName": "Felton",
+      "tid": -2,
+      "ratings": [
+        {
+          "hgt": 100,
+          "stre": 100,
+          "spd": 100,
+          "jmp": 100,
+          "endu": 100,
+          "ins": 100,
+          "dnk": 100,
+          "ft": 100,
+          "fg": 100,
+          "tp": 100,
+          "oiq": 100,
+          "diq": 100,
+          "drb": 100,
+          "pss": 100,
+          "reb": 100
+        }
+      ],
+      "born": {"year": 1990},
+      "draft": {"year": 2000}
+    },
+    {
+      "firstName": "Jackson",
+      "lastName": "Williams",
+      "tid": -2,
+      "ratings": [
+        {
+          "hgt": 100,
+          "stre": 100,
+          "spd": 100,
+          "jmp": 100,
+          "endu": 100,
+          "ins": 100,
+          "dnk": 100,
+          "ft": 100,
+          "fg": 100,
+          "tp": 100,
+          "oiq": 100,
+          "diq": 100,
+          "drb": 100,
+          "pss": 100,
+          "reb": 100
+        }
+      ],
+      "born": {"year": 1980},
+      "draft": {"year": 2000}
+    },
+    {
+      "firstName": "Terrance",
+      "lastName": "Rodgers",
+      "tid": -2,
+      "ratings": [
+        {
+          "hgt": 100,
+          "stre": 100,
+          "spd": 100,
+          "jmp": 100,
+          "endu": 100,
+          "ins": 100,
+          "dnk": 100,
+          "ft": 100,
+          "fg": 100,
+          "tp": 100,
+          "oiq": 100,
+          "diq": 100,
+          "drb": 100,
+          "pss": 100,
+          "reb": 100
+        }
+      ],
+      "born": {"year": 1980},
+      "draft": {"year": 2000}
+    },
+    {
+      "firstName": "Joshua",
+      "lastName": "Johns",
+      "tid": -2,
+      "ratings": [
+        {
+          "hgt": 100,
+          "stre": 100,
+          "spd": 100,
+          "jmp": 100,
+          "endu": 100,
+          "ins": 100,
+          "dnk": 100,
+          "ft": 100,
+          "fg": 100,
+          "tp": 100,
+          "oiq": 100,
+          "diq": 100,
+          "drb": 100,
+          "pss": 100,
+          "reb": 100
+        }
+      ],
+      "born": {"year": 1980},
+      "draft": {"year": 2000}
+    },
+    {
+      "firstName": "Aaron",
+      "lastName": "Marks",
+      "tid": -2,
+      "ratings": [
+        {
+          "hgt": 100,
+          "stre": 100,
+          "spd": 100,
+          "jmp": 100,
+          "endu": 100,
+          "ins": 100,
+          "dnk": 100,
+          "ft": 100,
+          "fg": 100,
+          "tp": 100,
+          "oiq": 100,
+          "diq": 100,
+          "drb": 100,
+          "pss": 100,
+          "reb": 100
+        }
+      ],
+      "born": {"year": 1980},
+      "draft": {"year": 2000}
+    },
+    {
+      "firstName": "Robert",
+      "lastName": "Hellaire",
+      "tid": -2,
+      "ratings": [
+        {
+          "hgt": 100,
+          "stre": 100,
+          "spd": 100,
+          "jmp": 100,
+          "endu": 100,
+          "ins": 100,
+          "dnk": 100,
+          "ft": 100,
+          "fg": 100,
+          "tp": 100,
+          "oiq": 100,
+          "diq": 100,
+          "drb": 100,
+          "pss": 100,
+          "reb": 100
+        }
+      ],
+      "born": {"year": 1980},
+      "draft": {"year": 2000}
+    },
+    {
+      "firstName": "Harry",
+      "lastName": "Marks",
+      "tid": -2,
+      "ratings": [
+        {
+          "hgt": 100,
+          "stre": 100,
+          "spd": 100,
+          "jmp": 100,
+          "endu": 100,
+          "ins": 100,
+          "dnk": 100,
+          "ft": 100,
+          "fg": 100,
+          "tp": 100,
+          "oiq": 100,
+          "diq": 100,
+          "drb": 100,
+          "pss": 100,
+          "reb": 100
+        }
+      ],
+      "born": {"year": 1980},
+      "draft": {"year": 2000}
+    },
+    {
+      "firstName": "Trent",
+      "lastName": "Jones Sr.",
+      "tid": -2,
+      "ratings": [
+        {
+          "hgt": 100,
+          "stre": 100,
+          "spd": 100,
+          "jmp": 100,
+          "endu": 100,
+          "ins": 100,
+          "dnk": 100,
+          "ft": 100,
+          "fg": 100,
+          "tp": 100,
+          "oiq": 100,
+          "diq": 100,
+          "drb": 100,
+          "pss": 100,
+          "reb": 100
+        }
+      ],
+      "born": {"year": 1980},
+      "draft": {"year": 2000}
+    },
+    {
+      "firstName": "Trent",
+      "lastName": "Jones Jr.",
+      "tid": -2,
+      "ratings": [
+        {
+          "hgt": 100,
+          "stre": 100,
+          "spd": 100,
+          "jmp": 100,
+          "endu": 100,
+          "ins": 100,
+          "dnk": 100,
+          "ft": 100,
+          "fg": 100,
+          "tp": 100,
+          "oiq": 100,
+          "diq": 100,
+          "drb": 100,
+          "pss": 100,
+          "reb": 100
+        }
+      ],
+      "born": {"year": 1980},
+      "draft": {"year": 2000}
+    },
+    {
+      "firstName": "Harrison",
+      "lastName": "Puff",
+      "tid": -2,
+      "ratings": [
+        {
+          "hgt": 100,
+          "stre": 100,
+          "spd": 100,
+          "jmp": 100,
+          "endu": 100,
+          "ins": 100,
+          "dnk": 100,
+          "ft": 100,
+          "fg": 100,
+          "tp": 100,
+          "oiq": 100,
+          "diq": 100,
+          "drb": 100,
+          "pss": 100,
+          "reb": 100
+        }
+      ],
+      "born": {"year": 1980},
+      "draft": {"year": 2000}
+    },
+    {
+      "firstName": "George",
+      "lastName": "Aaronson",
+      "tid": -2,
+      "ratings": [
+        {
+          "hgt": 100,
+          "stre": 100,
+          "spd": 100,
+          "jmp": 100,
+          "endu": 100,
+          "ins": 100,
+          "dnk": 100,
+          "ft": 100,
+          "fg": 100,
+          "tp": 100,
+          "oiq": 100,
+          "diq": 100,
+          "drb": 100,
+          "pss": 100,
+          "reb": 100
+        }
+      ],
+      "born": {"year": 1980},
+      "draft": {"year": 2000}
+    },
+    {
+      "firstName": "Ian",
+      "lastName": "Stapleton",
+      "tid": -2,
+      "ratings": [
+        {
+          "hgt": 100,
+          "stre": 100,
+          "spd": 100,
+          "jmp": 100,
+          "endu": 100,
+          "ins": 100,
+          "dnk": 100,
+          "ft": 100,
+          "fg": 100,
+          "tp": 100,
+          "oiq": 100,
+          "diq": 100,
+          "drb": 100,
+          "pss": 100,
+          "reb": 100
+        }
+      ],
+      "born": {"year": 1980},
+      "draft": {"year": 2000}
+    },
+    {
+      "firstName": "Austin",
+      "lastName": "Drippon",
+      "tid": -2,
+      "ratings": [
+        {
+          "hgt": 100,
+          "stre": 100,
+          "spd": 100,
+          "jmp": 100,
+          "endu": 100,
+          "ins": 100,
+          "dnk": 100,
+          "ft": 100,
+          "fg": 100,
+          "tp": 100,
+          "oiq": 100,
+          "diq": 100,
+          "drb": 100,
+          "pss": 100,
+          "reb": 100
+        }
+      ],
+      "born": {"year": 1980},
+      "draft": {"year": 2000}
+    },
+    {
+      "firstName": "Jerome",
+      "lastName": "Aceti",
+      "tid": -2,
+      "ratings": [
+        {
+          "hgt": 100,
+          "stre": 100,
+          "spd": 100,
+          "jmp": 100,
+          "endu": 100,
+          "ins": 100,
+          "dnk": 100,
+          "ft": 100,
+          "fg": 100,
+          "tp": 100,
+          "oiq": 100,
+          "diq": 100,
+          "drb": 100,
+          "pss": 100,
+          "reb": 100
+        }
+      ],
+      "born": {"year": 1980},
+      "draft": {"year": 2000}
+    },
+    {
+      "firstName": "Robert",
+      "lastName": "Marcus",
+      "tid": -2,
+      "ratings": [
+        {
+          "hgt": 100,
+          "stre": 100,
+          "spd": 100,
+          "jmp": 100,
+          "endu": 100,
+          "ins": 100,
+          "dnk": 100,
+          "ft": 100,
+          "fg": 100,
+          "tp": 100,
+          "oiq": 100,
+          "diq": 100,
+          "drb": 100,
+          "pss": 100,
+          "reb": 100
+        }
+      ],
+      "born": {"year": 1980},
+      "draft": {"year": 2000}
+    },
+    {
+      "firstName": "Gold",
+      "lastName": "Glover IX",
+      "tid": -2,
+      "ratings": [
+        {
+          "hgt": 100,
+          "stre": 100,
+          "spd": 100,
+          "jmp": 100,
+          "endu": 100,
+          "ins": 100,
+          "dnk": 100,
+          "ft": 100,
+          "fg": 100,
+          "tp": 100,
+          "oiq": 100,
+          "diq": 100,
+          "drb": 100,
+          "pss": 100,
+          "reb": 100
+        }
+      ],
+      "born": {"year": 1980},
+      "draft": {"year": 2000}
+    },
+  ]
+}
